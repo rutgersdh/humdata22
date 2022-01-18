@@ -1,20 +1,20 @@
 
 # The name of your website.
-name: Holo Alfa
+name: Data Mining in the Humanities
 
 description:
 
   # Description of your site. This will show up in google.
-  meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
+  meta: A Rutgers Byrne seminar taught in Spring 2022.
 
   # Description of your site. This will show up on the front page.
-  subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/stijnvc/holo-alfa">&lt;/&gt; on Github</a>.
+  subtitle: A Spring 2022 Byrne seminar offering a take on the digital humanities.
 
 author:
-  name: Dr. Jekyll # Change this!
+  name: Francesca Giannetti # Change this!
 
   # Necessary for contact page
-  email: your@email.com # Change this!
+  email: fg162@rutgers.edu # Change this!
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
@@ -39,7 +39,7 @@ lang: en
 show-subtitle: true
 display-social-icons: false
 
-footer-text: This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.
+footer-text: <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0 2022</a>.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
@@ -77,7 +77,7 @@ nav-breaking-point: 520px
 paginate: 3
 
 # Display links for the previous and next post on post pages.
-display-next-prev-post: false
+display-next-prev-post: true
 
 # Leave empty if you don't want comments on post pages.
 disqus-shortname:
