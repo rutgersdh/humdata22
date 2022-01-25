@@ -2,6 +2,7 @@
 title: "Tools for Contributing to the Blog"
 author: Francesca Giannetti
 date: January 25, 2022
+summary: Set up for blogging in Jekyll
 ---
 
 ## VS Code
