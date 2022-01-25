@@ -38,7 +38,6 @@ lang: en
 # {% include subtitle.html %} to include it anywhere you want.
 show-subtitle: true
 display-social-icons: false
-
 footer-text: <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0 2022</a>.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.
 
 # Preferably 64px in height. Leave empty = disable.
