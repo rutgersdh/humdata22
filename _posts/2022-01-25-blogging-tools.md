@@ -38,7 +38,7 @@ Notice that spaces are not allowed, and in the context of this course it would b
 
 ```
 ---
-title: Class #2 Exercise
+title: "Class #2 Exercise"
 author: Francesca Giannetti
 summary: This is my first foray into markdown for web development
 ---
