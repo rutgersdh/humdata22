@@ -19,7 +19,7 @@ In-class exercise: [Markdown](https://programminghistorian.org/en/lessons/gettin
 ### Week 3, Feb 1
 
 Topic: What is/are data?  
-Reading: Reading: D’Ignazio, Catherine, and Lauren Klein. [“Collect, Analyze, Imagine, Teach.”](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) In
+Reading: D’Ignazio, Catherine, and Lauren Klein. [“Collect, Analyze, Imagine, Teach.”](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4) In
 _Data Feminism_. Cambridge, MA: MIT Press, 2020.  
 Assignment: [blog post #1](/humdata22/dataset-analysis/) due
 
