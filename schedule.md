@@ -34,7 +34,7 @@ Reading: Berry, Dorothy. "The House Archives Built." _up//root_ (blog), June 22,
 ### Week 5, Feb 15
 
 Topic: Markup  
-Reading: Flanders, Julia, Syd Bauman, and Sarah Connell. “Text Encoding.” In _Doing
+Reading: Flanders, Julia, Syd Bauman, and Sarah Connell. [“Text Encoding.”](https://rutgers.instructure.com/courses/158985/files?preview=22779494) In _Doing
 Digital Humanities: Practice, Training, Research_, 104–22. Abingdon, Oxon; New York,
 NY: Routledge, 2016.  
 Lab: [Close Reading with the TEI](https://github.com/giannetti/TEI-Close-Reading) 
