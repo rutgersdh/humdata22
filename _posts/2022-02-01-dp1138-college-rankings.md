@@ -1,0 +1,11 @@
+---
+title: "Blog post 1: College rankings"
+author: 
+    name: Dhruv P.
+summary: I chose this dataset primarily because it relates to me specifically as a college student who is in a state school
+---
+
+
+Link To Source: <https://www.usnews.com/education/best-colleges/articles/ranking-criteria-and-weights>
+
+I chose this dataset primarily because it relates to me specifically as a college student who is in a state school which can be seen as less professional or prestigious in regards to the standards that are set based on the data collected from this source. Rutgers is considered 2nd in the state of NJ which I am surprised by but It all relates back to my expos class last semester (Fall 2021) where our topics focused similarly to ivy league colleges like Harvard or Princeton in which graduates from that school contained "smartness" which is not the same of someone who came from a regular institution regardless of academic standings and majors. US News is a highly sought-after college ranking source and they are the most credible for years based on their factors of ranking which include graduate rates, alumni giving rates, faculty salaries and the list goes on. Some limitations of this data set are there is no financial data (income of population)  of the location of colleges and demographic standings which I believe play a major role in decision making for many people to attend colleges. That type of data is important.  Some questions I have are why are SAT scores still being inputted in this data set? What are the demographics and college life of these schools and the difference from a regular institution to a prestigious ivy league? How does crime affect the rankings of this school? My argument with this dataset would be how certain colleges are being looked down upon based on factors of race, income and attention. The audience I would direct my remarks to would-be students who are trying to apply to these schools and college students who are currently enrolled in institutions on this list. 
