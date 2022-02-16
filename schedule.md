@@ -45,8 +45,8 @@ Reading: Horne, John. [“Soldiers, Civilians and theWarfare of Attrition: Repre
 of Combat in France, 1914-1918.”](https://rutgers.instructure.com/courses/158985/files?preview=22982731) In _Authority, Identity and the Social History of the
 Great War_, edited by Frans Coetzee and Marilyn Shevin-Coetzee, 325–55. Providence, RI:
 Berghahn Books, 1995.  
-In-class exercise: Extra time on last week's text encoding lab
-~Assignment: blog post #2 due~
+In-class exercise: Extra time on last week's text encoding lab  
+~~Assignment: blog post #2 due~~
 
 ### Week 7, Mar 1
 
