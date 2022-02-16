@@ -29,7 +29,6 @@ Guest speaker: Caryn Radick, Digital Archivist, Special Collections and Universi
 Topic: Rutgers College War Service Bureau Records  
 Reading: Berry, Dorothy. "The House Archives Built." _up//root_ (blog), June 22, 2021.
 <https://www.uproot.space/features/the-house-archives-built>.
- 
 
 ### Week 5, Feb 15
 
@@ -37,16 +36,17 @@ Topic: Markup
 Reading: Flanders, Julia, Syd Bauman, and Sarah Connell. [“Text Encoding.”](https://rutgers.instructure.com/courses/158985/files?preview=22779494) In _Doing
 Digital Humanities: Practice, Training, Research_, 104–22. Abingdon, Oxon; New York,
 NY: Routledge, 2016.  
-Lab: [Close Reading with the TEI](https://github.com/giannetti/TEI-Close-Reading) 
+Lab: [Close Reading with the TEI](https://github.com/giannetti/TEI-Close-Reading)
 
 ### Week 6, Feb 22
 
 Topic: People and places  
-Reading: Horne, John. “Soldiers, Civilians and theWarfare of Attrition: Representations
-of Combat in France, 1914-1918.” In _Authority, Identity and the Social History of the
+Reading: Horne, John. [“Soldiers, Civilians and theWarfare of Attrition: Representations
+of Combat in France, 1914-1918.”](https://rutgers.instructure.com/courses/158985/files?preview=22982731) In _Authority, Identity and the Social History of the
 Great War_, edited by Frans Coetzee and Marilyn Shevin-Coetzee, 325–55. Providence, RI:
 Berghahn Books, 1995.  
-Assignment: blog post #2 due
+In-class exercise: Extra time on last week's text encoding lab
+~Assignment: blog post #2 due~
 
 ### Week 7, Mar 1
 
@@ -54,6 +54,7 @@ Topic: Maps
 Reading: Turnbull, David. [“Maps Are Territories: Science Is an Atlas: A Portfolio of
 Exhibits.”](http://territories.indigenousknowledge.org/) Chicago: University of Chicago Press, 1993. Read Exhibits 1-4. Optional: browse/read Exhibit 10.  
 Lab: mapping  
+Assignment: blog post #2 due
 
 ### Week 8, Mar 8
 
