@@ -18,4 +18,4 @@ A project that is similar to ours, only it spans many institutional collections 
 
 ## Text Encoding Redux
 
-Let's spend more time on last week's lab, [Close Reading with the TEI](https://github.com/giannetti/TEI-Close-Reading), focusing especially on research on people and places mentioned in the letters. Don't forget about next week's [blog post](https://rutgersdh.github.io/humdata22/2022/02/15/links-for-class-5/#blog-post-no-2) assessing your experience of this lab.
+Let's spend more time on last week's lab, [Close Reading with the TEI](https://github.com/giannetti/TEI-Close-Reading), focusing especially on research on people and places mentioned in the letters. Let's try crowdsourcing this work at the following [link](https://docs.google.com/spreadsheets/d/1VtGAoCq65Mq1Lt7S9EIxCCTUMSupKystCsYNKeaDANQ/edit?usp=sharing) (Google Sheet). Don't forget about next week's [blog post](https://rutgersdh.github.io/humdata22/2022/02/15/links-for-class-5/#blog-post-no-2) assessing your experience of this lab.
