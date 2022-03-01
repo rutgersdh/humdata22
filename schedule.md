@@ -53,7 +53,7 @@ In-class exercise: Extra time on last week's text encoding lab
 Topic: Maps  
 Reading: Turnbull, David. [“Maps Are Territories: Science Is an Atlas: A Portfolio of
 Exhibits.”](http://territories.indigenousknowledge.org/) Chicago: University of Chicago Press, 1993. Read Exhibits 1-4. Optional: browse/read Exhibit 10.  
-Lab: mapping  
+Lab: [mapping](/humdata22/mapping/)  
 Assignment: blog post #2 due
 
 ### Week 8, Mar 8
