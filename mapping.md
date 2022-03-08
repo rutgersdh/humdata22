@@ -13,7 +13,7 @@ In this lab, we will work with a couple of derived datasets related to the corre
 
 ## Getting started
 
-Download the the CSV files above to your desktop by right clicking, and selecting *Save link as* Open it up in a spreadsheet application (e.g. Numbers, Excel, or Google Sheets) and have a look at the data and the headers. Notice any inconsistencies and NA values. How might those have come about?
+Download the the CSV files above to your desktop by right clicking, and selecting *Save link as*. Open it up in a spreadsheet application (e.g. Numbers, Excel, or Google Sheets) and have a look at the data and the headers. Notice any inconsistencies and NA values. How might those have come about?
 
 I was hoping to get us as far as creating our own location data in connection with our assigned alumni, but I underestimated the time it would take to get through the text encoding lab. My bad. Instead, I am sharing with you the correspondence metadata I have so far gathered in connection with the WSB letters. One of the perks associated with nice structured data like TEI XML is that data extraction and manipulation becomes fairly easy (not easy easy, but reasonably so for someone with a bit of programming know-how). Certainly much easier than parsing a bunch of unstructured textual data. Can you connect some of these data points back to places in the TEI XML letters that you were asked to complete?
 
