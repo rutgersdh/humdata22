@@ -61,7 +61,7 @@ Assignment: blog post #2 due
 Topic: Networks  
 Reading: D’Ignazio, Catherine, and Lauren Klein. [“On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints.”](https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/5) In _Data Feminism_. Cambridge, MA: MIT Press, 2020.  
 Assignment: blog post #3 due  
-Lab: network analysis
+Lab: [networks](/humdata22/networks/)
 
 ### Week 9, Mar 22
 

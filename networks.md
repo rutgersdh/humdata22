@@ -31,7 +31,7 @@ Go to Palladio at <http://hdlab.stanford.edu/palladio/>, create a new project, a
 
 Click on the "Graph" tab in Palladio. Unlike the map visualization, which gave us a reassuring base map of the world to build on, this time we get a slightly intimidating blank screen. We've got to add everything ourselves. Click on settings (the three horizontal bars) in the upper right of your screen.
 
-![Settings for the graph feature](/humdata22/mapping/img/palladio-graph-settings.png)
+![Settings for the graph feature](/humdata22/img/palladio-graph-settings.png)
 
 Set "Source" to the `source` column, "Target" to the `target` column, and size the nodes based on the number of edges (degree centrality).
 
