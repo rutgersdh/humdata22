@@ -66,8 +66,8 @@ Lab: [networks](/humdata22/networks/)
 ### Week 9, Mar 22
 
 Topic: Edition  
-Reading: Earhart, Amy E. “An Editorial Turn: Reviving Print and Digital Editing of Black-
-Authored Literary Texts.” In _The Digital Black Atlantic_, 30–48. Minneapolis: University
+Reading: Earhart, Amy E. [“An Editorial Turn: Reviving Print and Digital Editing of Black-
+Authored Literary Texts.”](https://rutgers.instructure.com/courses/158985/files?preview=23627179) In _The Digital Black Atlantic_, 30–48. Minneapolis: University
 of Minnesota Press, 2021.
 
 ### Week 10, Mar 29
