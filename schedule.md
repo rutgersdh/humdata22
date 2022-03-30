@@ -72,5 +72,5 @@ of Minnesota Press, 2021.
 
 ### Week 10, Mar 29
 
-~~Group projects; in-class discussion~~
+~~Group projects; in-class discussion~~  
 In-class exercise: [Networks part 2!!](/humdata22/networks2/)
